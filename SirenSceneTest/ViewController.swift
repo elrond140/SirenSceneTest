@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  SirenSceneTest
 //
-//  Created by Luke Kozak on 2/4/20.
-//  Copyright © 2020 Testing. All rights reserved.
-//
 
 import UIKit
 
